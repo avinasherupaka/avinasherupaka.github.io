@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="502c2c19-d463-43bd-a551-709359a1f7ab" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bofa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/erac.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/monsanto-1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -16,25 +19,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="-928">
+              <caret line="249" column="28" lean-forward="false" selection-start-line="249" selection-start-column="28" selection-end-line="249" selection-end-column="28" />
+              <folding>
+                <marker date="1511852130000" expanded="false" signature="11268:11274" ph="©" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-168">
-              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-              <folding>
-                <marker date="1511850516000" expanded="false" signature="11471:11477" ph="©" />
-              </folding>
-            </state>
+      <file leaf-file-name="project.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/project.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -132,9 +132,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>projec</find>
-      <find>projects</find>
-      <find>project</find>
       <find>project.</find>
       <find>project.j</find>
       <find>project.jp</find>
@@ -156,12 +153,15 @@
       <find>Rya</find>
       <find>I'm hosted with GitHub Pages.</find>
       <find>I'm hosted with GitHub Pages</find>
-      <find>&lt;!-- End .project --&gt;</find>
       <find>m</find>
       <find>M</find>
       <find>My</find>
       <find>My P</find>
       <find>My Po</find>
+      <find>background-alt</find>
+      <find>&lt;!-- End .project --&gt;</find>
+      <find>&lt;--</find>
+      <find>&lt;!--</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -240,6 +240,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="avinasherupaka.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="avinasherupaka.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="avinasherupaka.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="avinasherupaka.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -761,7 +789,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511825687264</updated>
-      <workItem from="1511825690739" duration="8425000" />
+      <workItem from="1511825690739" duration="10021000" />
     </task>
     <task id="LOCAL-00001" summary="Working version">
       <created>1511849285446</created>
@@ -777,11 +805,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511850191768</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Minor UI updates">
+      <created>1511850548892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511850548892</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8425000" />
+    <option name="totallyTimeSpent" value="10021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="6" />
@@ -828,7 +863,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Working version" />
     <MESSAGE value="Typo's" />
-    <option name="LAST_COMMIT_MESSAGE" value="Typo's" />
+    <MESSAGE value="Minor UI updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor UI updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -853,11 +889,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/project.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -878,14 +909,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/scripts.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -944,12 +967,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2790" lean-forward="false" selection-start-line="0" selection-start-column="2790" selection-end-line="0" selection-end-column="2790" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/project.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="-928">
+          <caret line="249" column="28" lean-forward="false" selection-start-line="249" selection-start-column="28" selection-end-line="249" selection-end-column="28" />
           <folding>
-            <marker date="1511850516000" expanded="false" signature="11471:11477" ph="©" />
+            <marker date="1511852130000" expanded="false" signature="11268:11274" ph="©" />
           </folding>
         </state>
       </provider>
