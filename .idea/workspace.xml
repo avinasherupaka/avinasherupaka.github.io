@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="502c2c19-d463-43bd-a551-709359a1f7ab" name="Default" comment="Adding SEO">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_config.yml" />
+    <list default="true" id="502c2c19-d463-43bd-a551-709359a1f7ab" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -21,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            <state relative-caret-position="208">
+              <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -774,7 +772,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511825687264</updated>
-      <workItem from="1511825690739" duration="16848000" />
+      <workItem from="1511825690739" duration="17698000" />
     </task>
     <task id="LOCAL-00001" summary="Working version">
       <created>1511849285446</created>
@@ -832,11 +830,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511884825350</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adding SEO">
+      <created>1511888657340</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1511888657340</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16848000" />
+    <option name="totallyTimeSpent" value="17698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1925" y="75" width="1920" height="985" extended-state="0" />
@@ -888,7 +893,8 @@
     <MESSAGE value="Additional info" />
     <MESSAGE value="Correcting Style" />
     <MESSAGE value="Correcting Style 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correcting Style 2" />
+    <MESSAGE value="Adding SEO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding SEO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1063,8 +1069,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        <state relative-caret-position="208">
+          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
           <folding />
         </state>
       </provider>
