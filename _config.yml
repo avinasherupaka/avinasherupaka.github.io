@@ -1,0 +1,17 @@
+# Dependencies
+
+title:            Avinash Erupaka - Portfolio
+description:      Avinash Erupaka - Portfolio
+host:              https://avinasherupaka.github.io
+#baseurl:          ""
+github_username:  avinasherupaka
+exclude: [readme.md]
+sass:
+  style: compressed
+author:
+  name:           Avinash Reddy Erupaka
+  url:            https://github.com/avinasherupaka
+github:
+  repo:           https://github.com/avinasherupaka/avinasherupaka.github.io.git
+plugins:
+  - jekyll-seo-tag
