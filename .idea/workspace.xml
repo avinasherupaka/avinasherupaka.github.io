@@ -29,10 +29,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2829">
-              <caret line="149" column="21" lean-forward="false" selection-start-line="149" selection-start-column="21" selection-end-line="149" selection-end-column="21" />
+            <state relative-caret-position="-168">
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding>
-                <marker date="1511850139000" expanded="false" signature="11375:11381" ph="©" />
+                <marker date="1511850516000" expanded="false" signature="11471:11477" ph="©" />
               </folding>
             </state>
           </provider>
@@ -132,10 +132,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>p</find>
-      <find>pr</find>
-      <find>pro</find>
-      <find>proje</find>
       <find>projec</find>
       <find>projects</find>
       <find>project</find>
@@ -158,9 +154,14 @@
       <find>Ryy</find>
       <find>Ry</find>
       <find>Rya</find>
-      <find>&lt;!-- End .project --&gt;</find>
       <find>I'm hosted with GitHub Pages.</find>
       <find>I'm hosted with GitHub Pages</find>
+      <find>&lt;!-- End .project --&gt;</find>
+      <find>m</find>
+      <find>M</find>
+      <find>My</find>
+      <find>My P</find>
+      <find>My Po</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -760,7 +761,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511825687264</updated>
-      <workItem from="1511825690739" duration="8109000" />
+      <workItem from="1511825690739" duration="8425000" />
     </task>
     <task id="LOCAL-00001" summary="Working version">
       <created>1511849285446</created>
@@ -769,11 +770,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511849285446</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Typo's">
+      <created>1511850191768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1511850191768</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8109000" />
+    <option name="totallyTimeSpent" value="8425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="6" />
@@ -819,7 +827,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Working version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working version" />
+    <MESSAGE value="Typo's" />
+    <option name="LAST_COMMIT_MESSAGE" value="Typo's" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -937,10 +946,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2829">
-          <caret line="149" column="21" lean-forward="false" selection-start-line="149" selection-start-column="21" selection-end-line="149" selection-end-column="21" />
+        <state relative-caret-position="-168">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding>
-            <marker date="1511850139000" expanded="false" signature="11375:11381" ph="©" />
+            <marker date="1511850516000" expanded="false" signature="11471:11477" ph="©" />
           </folding>
         </state>
       </provider>
