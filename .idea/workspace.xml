@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="502c2c19-d463-43bd-a551-709359a1f7ab" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/styles.scss" afterPath="$PROJECT_DIR$/scss/styles.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="276" column="27" lean-forward="true" selection-start-line="276" selection-start-column="27" selection-end-line="276" selection-end-column="27" />
+            <state relative-caret-position="219">
+              <caret line="268" column="33" lean-forward="true" selection-start-line="268" selection-start-column="33" selection-end-line="268" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -793,7 +791,7 @@
       <option name="presentableId" value="Default" />
       <updated>1511825687264</updated>
       <workItem from="1511825690739" duration="20892000" />
-      <workItem from="1512008088602" duration="888000" />
+      <workItem from="1512008088602" duration="1604000" />
     </task>
     <task id="LOCAL-00001" summary="Working version">
       <created>1511849285446</created>
@@ -907,11 +905,25 @@
       <option name="project" value="LOCAL" />
       <updated>1512509411794</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Rearranging skills">
+      <created>1512510058756</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1512510058756</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Rearranging skills">
+      <created>1512510131751</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1512510131751</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21780000" />
+    <option name="totallyTimeSpent" value="22496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="0" />
@@ -971,7 +983,8 @@
     <MESSAGE value="removing tag" />
     <MESSAGE value="Adding AWS certifiation" />
     <MESSAGE value="Adding RPA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding RPA" />
+    <MESSAGE value="Rearranging skills" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rearranging skills" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1133,8 +1146,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="276" column="27" lean-forward="true" selection-start-line="276" selection-start-column="27" selection-end-line="276" selection-end-column="27" />
+        <state relative-caret-position="219">
+          <caret line="268" column="33" lean-forward="true" selection-start-line="268" selection-start-column="33" selection-end-line="268" selection-end-column="33" />
           <folding />
         </state>
       </provider>
