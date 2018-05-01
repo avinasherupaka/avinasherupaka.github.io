@@ -14,8 +14,8 @@
         var scrollDistance = $(heading).offset().top;
 
         $('html, body').animate({
-            scrollTop: scrollDistance + 'px'
-        }, Math.abs(window.pageYOffset - $(heading).offset().top) / 1);
+            scrollTop: (scrollDistance - 5) + 'px'
+        }, 0);
 
         // Hide the menu once clicked if mobile
         if ($('header').hasClass('active')) {
