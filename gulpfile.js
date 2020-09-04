@@ -6,7 +6,7 @@ var wait = require('gulp-wait');
 var rename = require('gulp-rename');
 var autoprefixer = require('gulp-autoprefixer');
 
-gulp.task('scripts', function() {
+gulp.task('scripts', gulp.series(function() {
     return gulp.src('js/scripts.js')
         .pipe(plumber(plumber({
             errorHandler: function (err) {
@@ -21,16 +21,16 @@ gulp.task('scripts', function() {
         }))
         .pipe(rename({extname: '.min.js'}))
         .pipe(gulp.dest('js'));
-});
+}));
 
-gulp.task('styles', function () {
+gulp.task('styles', gulp.series(function () {
     return gulp.src('./scss/styles.scss')
         .pipe(wait(250))
         .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
         .pipe(gulp.dest('./css'));
-});
+}));
 
-gulp.task('watch', gulp.parallel('scripts', 'styles'), function() {
-    gulp.watch('js/*.js', ['scripts']);
-    gulp.watch('scss/*.scss', ['styles']);
+gulp.task('watch', function() {
+    gulp.watch('js/*.js', gulp.series('scripts'));
+    gulp.watch('scss/*.scss', gulp.series('styles'));
 });
