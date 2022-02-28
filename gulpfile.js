@@ -34,3 +34,8 @@ gulp.task('watch', function() {
     gulp.watch('js/*.js', gulp.series('scripts'));
     gulp.watch('scss/*.scss', gulp.series('styles'));
 });
+
+gulp.task('open', function(){
+    gulp.src('./index.html')
+    .pipe(open());
+  });
