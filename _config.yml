@@ -1,7 +1,7 @@
 # Dependencies
 
-title:            Avinash Erupaka - Portfolio
-description:      Avinash Erupaka - Portfolio
+title:            Avinash RE - Portfolio
+description:      Avinash RE - Portfolio
 host:              https://avinasherupaka.github.io
 #baseurl:          ""
 github_username:  avinasherupaka
@@ -9,7 +9,7 @@ exclude: [readme.md]
 sass:
   style: compressed
 author:
-  name:           Avinash Reddy Erupaka
+  name:           Avinash RE
   url:            https://github.com/avinasherupaka
 github:
   repo:           https://github.com/avinasherupaka/avinasherupaka.github.io.git
